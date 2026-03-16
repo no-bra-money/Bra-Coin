@@ -1,6 +1,6 @@
 # Bra-Coin
 
-See all this repository's code on [https://github.com/no-bra-money/bitcoin-refork](https://github.com/no-bra-money/Bra-Coin)
+See all this repository's code on https://github.com/no-bra-money/Bra-Coin
 
 Bra(chistochrone) curve based (crypto) transaction protocol; with near-perfect physical simulation. 
 
