@@ -1,5 +1,7 @@
 # Bra-Coin
 
+See all this repository's code on https://github.com/no-bra-money/bitcoin-refork
+
 Bra(chistochrone) curve based (crypto) transaction protocol; with near-perfect physical simulation. 
 
 A Bra'Curve is a Cycloid, traced by a point on the Circumference of a Rotated Circle (rotated by angle
